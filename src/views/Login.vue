@@ -5,7 +5,7 @@
                 
             
             <v-col md="5" class="my-5">
-                <img class="mb-5" src="\Logo alfaweb.png" alt="">
+                <img class="mb-5" src="@/assets/Logo alfaweb.png" alt="">
                 <h2>
                     Iniciar Sesión
                 </h2>

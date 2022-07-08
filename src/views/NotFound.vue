@@ -1,6 +1,6 @@
 <template>
     <div class="imagen" >
-        <img :src="`/error-404.png`" alt="Error la pagina que busca no existe">
+        <img src="@/assets/error-404.png" alt="Error la pagina que busca no existe">
     </div>
 </template>
 
